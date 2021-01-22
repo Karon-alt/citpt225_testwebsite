@@ -1,0 +1,16 @@
+body {
+    background-color: bisque;
+    text-align: center;
+    color: chocolate;
+    margin: 8%;
+}
+
+footer {
+    margin-top: 5%;
+    font-size: 1.35em;
+    border-top: honeydew dotted;
+}
+
+img {
+    width: 35%;
+}
